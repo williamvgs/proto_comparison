@@ -1,0 +1,7 @@
+v1.6
+35042D/12292/config/thruster_parameters1
+35042E/12290/config/thruster_parameters1
+
+v1.5
+35042A/12245/fongi/thruster_paramenters1
+35042B/12245/fongi/thruster_paramenters1
