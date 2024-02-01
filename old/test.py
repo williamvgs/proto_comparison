@@ -14,8 +14,8 @@ def compare_prototxt_files(file_path_old, file_path_new):
         return diff_str
 
 # Example usage:
-old_prototxt_path = 'C:/Users/William/Documents/brunvoll_utplasering/v1.6/Thruster_protocol_D.prototxt'
-new_prototxt_path = 'C:/Users/William/Documents/brunvoll_utplasering/v1.6/Thruster_protocol_E.prototxt'
+old_prototxt_path = 'C:/Users/Utplassering/Documents/brunvoll_utplasering/v1.6/Thruster_protocol_D.prototxt'
+new_prototxt_path = 'C:/Users/Utplassering/Documents/brunvoll_utplasering/v1.6/Thruster_protocol_E.prototxt'
 
 diff_str = compare_prototxt_files(old_prototxt_path, new_prototxt_path)
 
