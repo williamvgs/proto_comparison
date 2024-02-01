@@ -99,7 +99,7 @@ if _descriptor._USE_C_DESCRIPTORS == False:
   _globals['_THRUSTERPARAMETERS'].fields_by_name['ConfigRpmFollowUp']._serialized_options = b'\202\246\035=Oppf\303\270rsel ved Rpm follow-up (0= keep going, 1= thrust til 0)'
   _globals['_THRUSTERPARAMETERS'].fields_by_name['AlrmConfigAutoTrafo']._options = None
   _globals['_THRUSTERPARAMETERS'].fields_by_name['AlrmConfigAutoTrafo']._serialized_options = b'\202\246\035CKonfig. av HIGH TEMP AUTO TRAFO (0= ikke installert, 1= installert)'
-  _globals['_THRUSTERPARAMETERS'].fields_by_name['FanRunning']._options = None
+  _globals['_THRUSTERPARAMETERS'].fields_by_namEALTankAnaPresstfe['FanRunning']._options = None
   _globals['_THRUSTERPARAMETERS'].fields_by_name['FanRunning']._serialized_options = b'\202\246\0356Fan running signal (0= ikke installert, 1= installert)'
   _globals['_THRUSTERPARAMETERS'].fields_by_name['Backup1']._options = None
   _globals['_THRUSTERPARAMETERS'].fields_by_name['Backup1']._serialized_options = b'\030\001'
