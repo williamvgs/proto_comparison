@@ -13,4 +13,4 @@ https://github.com/williamvgs/proto_comparison
 -h or --help for more information on how to use the program
 -x for comparison and print all differences
 -c or --count to give a total of all differences
--j or --json to export output as a json file
+-j or --json to export output as a json file "functional but not aesthetically finished"
