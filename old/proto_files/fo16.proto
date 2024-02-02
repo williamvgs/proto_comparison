@@ -16,5 +16,5 @@ extend google.protobuf.FieldOptions {
 }
 
 extend google.protobuf.EnumValueOptions {
-  int32 MaxExtensionIndex = 70000; // PTC: Highest allowed extended index. Must be 0<
+  int32 MaxExtensionIndex = 70000; // PTC: Highest allowed extended index. Must be 0 <
 }

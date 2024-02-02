@@ -1,0 +1,83 @@
+{
+    "thrusters":
+    {
+        "azimuth":
+        {
+            "azimuth_1":
+            {
+                "id": 1,
+                "position":
+                {
+                    "side": "starboar",
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_2":
+            {
+                "id": 1,
+                "position":
+                {
+                    "side": "port",
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_3":
+            {
+                "id": 3,
+                "position":
+                {
+                    "side": "center",
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_4":
+            {
+                "id": 4,
+                "position":
+                {
+                    "side": "center",
+                    "bow/stern": "stern"
+                }
+            }
+        },
+        "tunnel":
+        {
+            "tunnel_1":
+            {
+                "id": 5,
+                "connected_to": "none",
+                "position":
+                {
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_2":
+            {
+                "id": 6,
+                "connected_to": 7,
+                "position":
+                {
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_3":
+            {
+                "id": 7,
+                "connected_to": 6,
+                "position":
+                {
+                    "bow/stern": "bow"
+                }
+            },
+            "azimuth_4":
+            {
+                "id": 8,
+                "connected_to": "none",
+                "position":
+                {
+                    "bow/stern": "stern"
+                }
+            }
+        }
+    }
+}
